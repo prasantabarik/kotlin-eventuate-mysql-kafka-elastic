@@ -1,0 +1,1 @@
+# kotlin-eventuate-mysql-kafka-elastic
